@@ -19,7 +19,7 @@ Password: userncsu1
 ```
 ### Application Features:
 
-### USER-->
+### USER
 1)A user can log in and make a reservation
 
 2)An admin can log in and perform CRUD operations on a reservation or user or car.
@@ -40,10 +40,10 @@ The user can also ask to NOTIFY him/her automatically via email when a reserved 
 The user must click on NOTIFY on the "Make Reservation" page. After this, An automatic email is sent to him/her about the car availability when the user with the reserved car RETURNS the car.
 
 
-### ADMIN-->
+### ADMIN
 View/Create/Update and Delete cars,reservations and users.
 Can also add new admins.
 
-### SUPERADMIN-->
+### SUPERADMIN
 View/Create/Update and Delete admins,cars,reservations and users.
 Can also add new superadmins.
