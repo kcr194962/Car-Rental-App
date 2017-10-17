@@ -18,7 +18,9 @@ Password: userncsu1
 
 ### USER-->
 1)A user can log in and make a reservation
+
 2)An admin can log in and perform CRUD operations on a reservation or user or car.
+
 3)A super admin can log in and perform CRUD operations on a reservation or user or car or admins.
 
 A normal user can be created using "Sign Up" button. Password must ATLEAST BE 6 DIGITS, MUST have a letter and a digit.
