@@ -10,13 +10,11 @@ Password: superadmin1
 ### Admin login details:
 ```
 Email: admin@ncsu.com
-
 Password: adminncsu1
 ```
 ### Sample User details:
 ```
 Email: user@ncsu.com
-
 Password: userncsu1
 ```
 ### Application Features:
