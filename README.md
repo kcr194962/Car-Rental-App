@@ -3,17 +3,22 @@
 ## Visit our app live on https://secret-mountain-75781.herokuapp.com/
 
 ### Super Admin Login details:
+```
 Email: superadmin@ncsu.com    
 Password: superadmin1
-
+```
 ### Admin login details:
+```
 Email: admin@ncsu.com
+
 Password: adminncsu1
-
+```
 ### Sample User details:
+```
 Email: user@ncsu.com
-Password: userncsu1
 
+Password: userncsu1
+```
 ### Application Features:
 
 ### USER-->
